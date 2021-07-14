@@ -6,5 +6,5 @@ It's easy to use.
 Just like:
 
 ```bash
-python filename_renamer ./images -s .jpg .png -o good.png
+python filename_renamer.py ./images -s .jpg .png -o good.png
 ```
