@@ -1,3 +1,15 @@
+# Copyright (c) 2021 W-Mai
+# 
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+#
+# filename_renamer/filename_renamer.py
+# Created by W-Mai on 2021/3/14.
+# repo: https://github.com/W-Mai/filename_renamer
+#
+##############################################################
+
+
 import argparse
 import os
 import time
